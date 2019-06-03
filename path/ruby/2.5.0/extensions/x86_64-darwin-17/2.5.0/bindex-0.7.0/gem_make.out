@@ -1,0 +1,15 @@
+current directory: /Users/enkhbayar/PROJECTS/RubymineProjects/HerokuRailsBayaraa/path/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+/usr/local/rvm/rubies/ruby-2.5.1/bin/ruby -I /usr/local/rvm/rubies/ruby-2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190603-69158-uxkfkc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/enkhbayar/PROJECTS/RubymineProjects/HerokuRailsBayaraa/path/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/enkhbayar/PROJECTS/RubymineProjects/HerokuRailsBayaraa/path/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/cruby.bundle
+
+current directory: /Users/enkhbayar/PROJECTS/RubymineProjects/HerokuRailsBayaraa/path/ruby/2.5.0/gems/bindex-0.7.0/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20190603-69158-16xd3uy/skiptrace
